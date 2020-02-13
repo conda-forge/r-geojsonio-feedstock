@@ -1,7 +1,7 @@
 About r-geojsonio
 =================
 
-Home: https://github.com/ropensci/geojsonio
+Home: https://github.com/ropensci/geojsonio (devel), https://docs.ropensci.org/geojsonio (docs)
 
 Package license: MIT
 
