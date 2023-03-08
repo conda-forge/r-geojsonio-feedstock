@@ -1,11 +1,11 @@
-About r-geojsonio
-=================
+About r-geojsonio-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geojsonio-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropensci/geojsonio (devel), https://docs.ropensci.org/geojsonio (docs)
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geojsonio-feedstock/blob/main/LICENSE.txt)
 
 Summary: Convert data to 'GeoJSON' or 'TopoJSON' from various R classes, including vectors, lists, data frames, shape files, and spatial classes. 'geojsonio' does not aim to replace packages like 'sp', 'rgdal', 'rgeos', but rather aims to be a high level client to simplify conversions of data from and to 'GeoJSON' and 'TopoJSON'.
 
