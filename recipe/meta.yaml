@@ -1,4 +1,4 @@
-{% set version = "0.11.0" %}
+{% set version = "0.11.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/geojsonio_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/geojsonio/geojsonio_{{ version }}.tar.gz
-  sha256: d0b9db813c33b61bcbf4d9d5bcb43864fccd868a52d48a3cd4270513ce75fc65
+  sha256: 7ad8045a94400c2259800d3f63b8998fbe3b67d41754e593fd0f3f03be7acb8e
 
 build:
   merge_build_host: true  # [win]
